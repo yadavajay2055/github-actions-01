@@ -7,7 +7,7 @@
 
 # Hello GitHub Actions
 
-_Create a GitHub Action and use it in a workflow._
+_Create a GitHub Actions and use it in a workflow._
 
 <!--
   <<< Author notes: Start of the course >>>
